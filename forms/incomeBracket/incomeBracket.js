@@ -1,3 +1,4 @@
+
 let tax = 0
 function taxBracket(x) {
   if (x< 30000) {
